@@ -27,6 +27,8 @@ int main()
     }
     cout << i[a] << " " << j[a] << " " << max << endl; 
   }
+  delete[] i; 
+  delete[] j; 
 }
 // based upon the test 
 // 1 10
