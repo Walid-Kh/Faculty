@@ -2,11 +2,6 @@
 using namespace std;
 bool found = false;
 int counter = 1;
-/* 
-   1 2 3 4 5 
-   
-
- */
 // (((aπ(1) o1 aπ(2)) o2 aπ(3)) o3 aπ(4)) o4 aπ(5)
 /* void possible(int *arr, int size, int res, string x = "")
 {
@@ -78,6 +73,8 @@ int main()
     // next_permutation return a bool which is true when it hasn't finished
     // it rearages the arr to give all the possible combinations 
     // given the elements in the arr 
+    // the array has to be sorted for this to work 
+    // so you have to call sort(ptrfirst,ptrfirst+size(ptrlast)); 
     // for example the arr = {1,2,3} has the following permutations
     //  1 2 3
     //  1 3 2
