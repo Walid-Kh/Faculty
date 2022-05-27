@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c32ad54-9b13-4c4e-940f-5e26d783fe99": {
+      "ProjectGuid": "1c32ad54-9b13-4c4e-940f-5e26d783fe99",
+      "DisplayName": "2-BinarySearchTree",
+      "ColorIndex": 0
+    },
+    "0e924f67-5bab-4b54-84a3-51220527317e": {
+      "ProjectGuid": "0e924f67-5bab-4b54-84a3-51220527317e",
+      "DisplayName": "1-Rrecursion",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
