@@ -1,0 +1,36 @@
+C:\Users\walid\Desktop\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.exe
+C:\Users\walid\Desktop\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.deps.json
+C:\Users\walid\Desktop\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.runtimeconfig.json
+C:\Users\walid\Desktop\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.dll
+C:\Users\walid\Desktop\Lab2\Lab2\bin\Debug\net6.0-windows\ref\Lab2.dll
+C:\Users\walid\Desktop\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.pdb
+C:\Users\walid\Desktop\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.AssemblyReference.cache
+C:\Users\walid\Desktop\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form1.resources
+C:\Users\walid\Desktop\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.GenerateResource.cache
+C:\Users\walid\Desktop\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walid\Desktop\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfoInputs.cache
+C:\Users\walid\Desktop\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfo.cs
+C:\Users\walid\Desktop\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\walid\Desktop\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.dll
+C:\Users\walid\Desktop\Lab2\Lab2\obj\Debug\net6.0-windows\ref\Lab2.dll
+C:\Users\walid\Desktop\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.pdb
+C:\Users\walid\Desktop\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.genruntimeconfig.cache
+C:\Users\walid\Desktop\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.CourseGridForm.resources
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\bin\Debug\net6.0-windows\Lab2.exe
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\bin\Debug\net6.0-windows\Lab2.deps.json
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\bin\Debug\net6.0-windows\Lab2.runtimeconfig.json
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\bin\Debug\net6.0-windows\Lab2.dll
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\bin\Debug\net6.0-windows\ref\Lab2.dll
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\bin\Debug\net6.0-windows\Lab2.pdb
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.AssemblyReference.cache
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\obj\Debug\net6.0-windows\Lab2.CourseGridForm.resources
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\obj\Debug\net6.0-windows\Lab2.Form1.resources
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.GenerateResource.cache
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\obj\Debug\net6.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfoInputs.cache
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfo.cs
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\obj\Debug\net6.0-windows\Lab2.dll
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\obj\Debug\net6.0-windows\ref\Lab2.dll
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\obj\Debug\net6.0-windows\Lab2.pdb
+C:\Users\walid\Desktop\Faculty\Year2\Database Course\Labs\Lab1\Lab2\obj\Debug\net6.0-windows\Lab2.genruntimeconfig.cache
