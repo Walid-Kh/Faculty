@@ -1,0 +1,11 @@
+C:\Users\walid\Desktop\Lab4-Requirement-Thursday\Lab4-Requirement\Lab4\Lab4\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\walid\Desktop\Lab4-Requirement-Thursday\Lab4-Requirement\Lab4\Lab4\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\walid\Desktop\Lab4-Requirement-Thursday\Lab4-Requirement\Lab4\Lab4\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\walid\Desktop\Lab4-Requirement-Thursday\Lab4-Requirement\Lab4\Lab4\obj\Debug\DBapplication.csproj.AssemblyReference.cache
+C:\Users\walid\Desktop\Lab4-Requirement-Thursday\Lab4-Requirement\Lab4\Lab4\obj\Debug\DBapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\walid\Desktop\Lab4-Requirement-Thursday\Lab4-Requirement\Lab4\Lab4\obj\Debug\WindowsFormsApplication1.AppForm.resources
+C:\Users\walid\Desktop\Lab4-Requirement-Thursday\Lab4-Requirement\Lab4\Lab4\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\walid\Desktop\Lab4-Requirement-Thursday\Lab4-Requirement\Lab4\Lab4\obj\Debug\DBapplication.csproj.GenerateResource.cache
+C:\Users\walid\Desktop\Lab4-Requirement-Thursday\Lab4-Requirement\Lab4\Lab4\obj\Debug\DBapplication.csproj.CoreCompileInputs.cache
+C:\Users\walid\Desktop\Lab4-Requirement-Thursday\Lab4-Requirement\Lab4\Lab4\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\walid\Desktop\Lab4-Requirement-Thursday\Lab4-Requirement\Lab4\Lab4\obj\Debug\WindowsFormsApplication1.pdb
