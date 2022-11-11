@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 #include <chrono>
+#pragma comment(linker, "/STAC K:268435456")
 using namespace std;
 using namespace std::chrono;
 int di[] = {0, 0, 1, -1};
@@ -110,9 +111,16 @@ class solution
     {
         if (begin >= end)
             return;
-        if (end - begin + 1 <= 32)
+        if (end - begin + 1 <= 500)
         {
-            insertionSort(arr, end, begin);
+            unsigned long long average = 0;
+            for (int i = begin; i < begin + 10; i++)
+                average += arr[i];
+            average /= (10);
+            if (abs((long)(arr[end] - average)) > 200000)
+                insertionSort(arr, end, begin);
+            else
+                quickSort(arr, end, begin);
             return;
         }
         int mid = begin + (end - begin) / 2;
@@ -122,13 +130,10 @@ class solution
     }
 
 public:
-    solution()
+    solution(int sortAlgoNum, string dataFileName, string outputFileName, string runningTimeFileName)
     {
-        string dataFileName, outputFileName, runningTimeFileName;
-        int sortAlgoNum;
         vector<int> arr(500000);
         int x, len = 0;
-        cin >> sortAlgoNum >> dataFileName >> outputFileName >> runningTimeFileName;
         ifstream dataFile(dataFileName);
         while (dataFile >> x)
         {
@@ -165,12 +170,12 @@ public:
         runningTimeFile << duration.count();
     }
 };
-int main()
+int main(int argc, char **argv)
 {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
-    solution *x = new solution();
+    solution *x = new solution(atoi(argv[1]), argv[2], argv[3], argv[4]);
     delete x;
     return 0;
 }
