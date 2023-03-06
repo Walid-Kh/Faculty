@@ -1,0 +1,5 @@
+2	line
+3	word
+4	line
+4	line
+5	file

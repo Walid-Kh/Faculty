@@ -1,0 +1,5 @@
+4	lone
+5	fole
+4	lone
+3	word
+2	lone

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+function findPrime {
+    N=3;
+    if ["$#" = 1] 
+	then
+       		 X=$1
+    else
+        let N = $1;
+        X = $2;
+    fi
+    echo $N $X
+}
+findPrime;
