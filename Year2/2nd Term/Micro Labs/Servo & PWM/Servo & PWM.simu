@@ -1,0 +1,155 @@
+<circuit type="simulide_0.4" animate="0" noLinAcc="5" Speed_sps="1000000" Simu_Step_nS="1000" reactStep="50" Speed_per="100">
+
+Unique  Id: Arduino Uno-7275: 
+Circuit Id: Arduino Uno-7275
+<item valLabRot="0" Program="C:/Users/walid/Desktop/Micro Labs/Servo &amp; PWM/Servo/build/arduino.avr.uno/Servo.ino.hex" labelx="100" y="-216" varList=",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," labelrot="0" Show_id="true" eeprom="255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" Mhz="16" objectName="Arduino Uno-7275" x="-376" Auto_Load="false" hflip="1" Name="arduinoUno" rotation="90" itemtype="Arduino" Logic_Symbol="false" boardPos="-1e+06,-1e+06" circRot="-9.362986856279606e+306" labely="-21" id="Arduino Uno-7275" valLabelx="0"/>
+
+Unique  Id: Node-7273: 
+Circuit Id: Node-7273
+<item valLabRot="0" labelx="-16" y="-332" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Node-7273" x="-384" hflip="1" rotation="0" itemtype="Node" boardPos="-1e+06,-1e+06" circRot="8.615302913256e-312" labely="-24" id="Node-7273" valLabelx="0"/>
+
+Unique  Id: Node-7270: 
+Circuit Id: Node-7270
+<item valLabRot="0" labelx="-16" y="-340" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Node-7270" x="-384" hflip="1" rotation="0" itemtype="Node" boardPos="-1e+06,-1e+06" circRot="3.75593255195e-312" labely="-24" id="Node-7270" valLabelx="0"/>
+
+Unique  Id: Node-7267: 
+Circuit Id: Node-7267
+<item valLabRot="0" labelx="-16" y="-348" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Node-7267" x="-384" hflip="1" rotation="0" itemtype="Node" boardPos="-1e+06,-1e+06" circRot="nan" labely="-24" id="Node-7267" valLabelx="0"/>
+
+Unique  Id: Fixed Voltage-7264: 
+Circuit Id: Fixed Voltage-7264
+<item valLabRot="0" Show_Volt="true" Out="true" labelx="-64" y="-376" Unit=" V" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="8" objectName="Fixed Voltage-7264" x="-384" hflip="1" rotation="90" itemtype="Fixed Voltage" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" Voltage="5" id="Fixed Voltage-7264" valLabelx="-16"/>
+
+Unique  Id: SwitchDip-7263: 
+Circuit Id: SwitchDip-7263
+<item valLabRot="0" labelx="-16" y="-324" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" State="255" valLabely="0" objectName="SwitchDip-7263" x="-368" hflip="1" rotation="0" itemtype="SwitchDip" Size="4" boardPos="-1e+06,-1e+06" circRot="-24" labely="-44" id="SwitchDip-7263" valLabelx="0"/>
+
+Unique  Id: Ground-7217: 
+Circuit Id: Ground-7216
+<item valLabRot="0" labelx="-16" y="-408" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Ground-7217" x="-168" hflip="1" rotation="-180" itemtype="Ground" boardPos="-1e+06,-1e+06" circRot="0" labely="8" id="Ground-7216" valLabelx="0"/>
+
+Unique  Id: Ground-7216: 
+Circuit Id: Ground-7216
+<item valLabRot="0" labelx="-16" y="-280" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Ground-7216" x="-96" hflip="1" rotation="0" itemtype="Ground" boardPos="-1e+06,-1e+06" circRot="0" labely="8" id="Ground-7216" valLabelx="0"/>
+
+Unique  Id: BcdTo7S-7208: 
+Circuit Id: BcdTo7S-7208
+<item valLabRot="0" labelx="-16" y="-340" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="BcdTo7S-7208" x="-160" Input_High_V="2.5" Out_Imped="40" Inverted="false" hflip="1" Tristate="true" rotation="0" itemtype="BcdTo7S" Out_High_V="5" Input_Imped="1e+14" boardPos="-1e+06,-1e+06" circRot="-5.898496282555328e+307" Input_Low_V="2.5" Out_Low_V="0" labely="-24" id="BcdTo7S-7208" valLabelx="0"/>
+
+Unique  Id: Seven Segment-2: 
+Circuit Id: Seven Segment-2
+<item valLabRot="0" labelx="20" y="-340" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Seven Segment-2" x="-104" Threshold="2.4" hflip="1" MaxCurrent="0.02" rotation="0" CommonCathode="true" itemtype="Seven Segment" boardPos="-1e+06,-1e+06" circRot="nan" NumDisplays="1" labely="-44" Resistance="1" Color="0" id="Seven Segment-2" Vertical_Pins="false" valLabelx="0"/>
+
+Unique  Id: Servo-1: 
+Circuit Id: Servo-1
+<item valLabRot="0" labelx="-16" y="-220" Speed="0.2" labelrot="0" Show_id="true" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Servo-1" x="-88" hflip="1" rotation="0" itemtype="Servo" boardPos="-1e+06,-1e+06" circRot="0" labely="-40" id="Servo-1" valLabelx="0"/>
+
+Unique  Id: Connector-7209: 
+Circuit Id: Connector-7209
+<item valLabRot="0" startpinid="BcdTo7S-7208-out0" labelx="-16" y="-364" pointList="-136,-364,-128,-364" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7209" x="-136" hflip="1" rotation="0" endpinid="Seven Segment-2-pin_a" enodeid="enode-7209" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7209" valLabelx="0"/>
+
+Unique  Id: Connector-7210: 
+Circuit Id: Connector-7210
+<item valLabRot="0" startpinid="BcdTo7S-7208-out1" labelx="-16" y="-356" pointList="-136,-356,-128,-356" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7210" x="-136" hflip="1" rotation="0" endpinid="Seven Segment-2-pin_b" enodeid="enode-7210" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="4.243991586e-314" labely="-24" id="Connector-7210" valLabelx="0"/>
+
+Unique  Id: Connector-7211: 
+Circuit Id: Connector-7211
+<item valLabRot="0" startpinid="BcdTo7S-7208-out2" labelx="-16" y="-348" pointList="-136,-348,-128,-348" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7211" x="-136" hflip="1" rotation="0" endpinid="Seven Segment-2-pin_c" enodeid="enode-7211" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="1.66390084e-316" labely="-24" id="Connector-7211" valLabelx="0"/>
+
+Unique  Id: Connector-7212: 
+Circuit Id: Connector-7212
+<item valLabRot="0" startpinid="BcdTo7S-7208-out3" labelx="-16" y="-340" pointList="-136,-340,-128,-340" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7212" x="-136" hflip="1" rotation="0" endpinid="Seven Segment-2-pin_d" enodeid="enode-7212" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="4.243991588e-314" labely="-24" id="Connector-7212" valLabelx="0"/>
+
+Unique  Id: Connector-7213: 
+Circuit Id: Connector-7213
+<item valLabRot="0" startpinid="BcdTo7S-7208-out4" labelx="-16" y="-332" pointList="-136,-332,-128,-332" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7213" x="-136" hflip="1" rotation="0" endpinid="Seven Segment-2-pin_e" enodeid="enode-7213" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="4.243991588e-314" labely="-24" id="Connector-7213" valLabelx="0"/>
+
+Unique  Id: Connector-7214: 
+Circuit Id: Connector-7214
+<item valLabRot="0" startpinid="BcdTo7S-7208-out5" labelx="-16" y="-324" pointList="-136,-324,-128,-324" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7214" x="-136" hflip="1" rotation="0" endpinid="Seven Segment-2-pin_f" enodeid="enode-7214" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7214" valLabelx="0"/>
+
+Unique  Id: Connector-7215: 
+Circuit Id: Connector-7215
+<item valLabRot="0" startpinid="BcdTo7S-7208-out6" labelx="-16" y="-316" pointList="-136,-316,-128,-316" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7215" x="-136" hflip="1" rotation="0" endpinid="Seven Segment-2-pin_g" enodeid="enode-7215" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="512.000976566247" labely="-24" id="Connector-7215" valLabelx="0"/>
+
+Unique  Id: Connector-7218: 
+Circuit Id: Connector-7218
+<item valLabRot="0" startpinid="Ground-7217-Gnd" labelx="-16" y="-392" pointList="-168,-392,-168,-380" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7218" x="-168" hflip="1" rotation="0" endpinid="BcdTo7S-7208-in4" enodeid="enode-7218" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="2.37e-322" labely="-24" id="Connector-7218" valLabelx="0"/>
+
+Unique  Id: Connector-7219: 
+Circuit Id: Connector-7219
+<item valLabRot="0" startpinid="Ground-7216-Gnd" labelx="-16" y="-296" pointList="-96,-296,-96,-308" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7219" x="-96" hflip="1" rotation="0" endpinid="Seven Segment-2-pin_commona" enodeid="enode-7219" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="1.03e-321" labely="-24" id="Connector-7219" valLabelx="0"/>
+
+Unique  Id: Connector-7265: 
+Circuit Id: Connector-7265
+<item valLabRot="0" startpinid="Fixed Voltage-7264-outnod" labelx="-16" y="-360" pointList="-384,-360,-384,-348" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7265" x="-384" hflip="1" rotation="0" endpinid="Node-7267-0" enodeid="enode-7272" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7265" valLabelx="0"/>
+
+Unique  Id: Connector-7266: 
+Circuit Id: Connector-7266
+<item valLabRot="0" startpinid="SwitchDip-7263-switch1-pinP" labelx="-16" y="-340" pointList="-376,-340,-384,-340" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7266" x="-376" hflip="1" rotation="0" endpinid="Node-7270-0" enodeid="enode-7272" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7266" valLabelx="0"/>
+
+Unique  Id: Connector-7268: 
+Circuit Id: Connector-7268
+<item valLabRot="0" startpinid="Node-7267-2" labelx="-16" y="-348" pointList="-384,-348,-376,-348" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7268" x="-384" hflip="1" rotation="0" endpinid="SwitchDip-7263-switch0-pinP" enodeid="enode-7272" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="7.75e-321" labely="-24" id="Connector-7268" valLabelx="0"/>
+
+Unique  Id: Connector-7269: 
+Circuit Id: Connector-7269
+<item valLabRot="0" startpinid="SwitchDip-7263-switch2-pinP" labelx="-16" y="-332" pointList="-376,-332,-384,-332" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7269" x="-376" hflip="1" rotation="0" endpinid="Node-7273-0" enodeid="enode-7272" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7269" valLabelx="0"/>
+
+Unique  Id: Connector-7271: 
+Circuit Id: Connector-7271
+<item valLabRot="0" startpinid="Node-7270-2" labelx="-16" y="-340" pointList="-384,-340,-384,-348" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7271" x="-384" hflip="1" rotation="0" endpinid="Node-7267-1" enodeid="enode-7272" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7271" valLabelx="0"/>
+
+Unique  Id: Connector-7272: 
+Circuit Id: Connector-7272
+<item valLabRot="0" startpinid="SwitchDip-7263-switch3-pinP" labelx="-16" y="-324" pointList="-376,-324,-384,-324,-384,-332" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7272" x="-376" hflip="1" rotation="0" endpinid="Node-7273-1" enodeid="enode-7272" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7272" valLabelx="0"/>
+
+Unique  Id: Connector-7274: 
+Circuit Id: Connector-7274
+<item valLabRot="0" startpinid="Node-7273-2" labelx="-16" y="-332" pointList="-384,-332,-384,-340" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7274" x="-384" hflip="1" rotation="0" endpinid="Node-7270-1" enodeid="enode-7272" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7274" valLabelx="0"/>
+
+Unique  Id: Connector-7296: 
+Circuit Id: Connector-7296
+<item valLabRot="0" startpinid="Servo-1-in1" labelx="-16" y="-220" pointList="-136,-220,-320,-220,-320,-176" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7296" x="-136" hflip="1" rotation="0" endpinid="Arduino Uno-7275-GND0" enodeid="enode-7296" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7296" valLabelx="0"/>
+
+Unique  Id: Connector-7297: 
+Circuit Id: Connector-7297
+<item valLabRot="0" startpinid="Arduino Uno-7275-V5V" labelx="-16" y="-32" pointList="-280,-32,-280,-12,-148,-12,-148,-236,-136,-236" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7297" x="-280" hflip="1" rotation="0" endpinid="Servo-1-in0" enodeid="enode-7297" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7297" valLabelx="0"/>
+
+Unique  Id: Connector-7279: 
+Circuit Id: Connector-7279
+<item valLabRot="0" startpinid="SwitchDip-7263-switch3-pinN" labelx="-16" y="-324" pointList="-352,-324,-296,-324,-296,-176" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7279" x="-352" hflip="1" rotation="0" endpinid="Arduino Uno-7275-PB3" enodeid="enode-7279" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7279" valLabelx="0"/>
+
+Unique  Id: Connector-7276: 
+Circuit Id: Connector-7276
+<item valLabRot="0" startpinid="SwitchDip-7263-switch0-pinN" labelx="-16" y="-348" pointList="-352,-348,-272,-348,-272,-176" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7276" x="-352" hflip="1" rotation="0" endpinid="Arduino Uno-7275-PB0" enodeid="enode-7276" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7276" valLabelx="0"/>
+
+Unique  Id: Connector-7278: 
+Circuit Id: Connector-7278
+<item valLabRot="0" startpinid="SwitchDip-7263-switch2-pinN" labelx="-16" y="-332" pointList="-352,-332,-288,-332,-288,-176" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7278" x="-352" hflip="1" rotation="0" endpinid="Arduino Uno-7275-PB2" enodeid="enode-7278" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7278" valLabelx="0"/>
+
+Unique  Id: Connector-7277: 
+Circuit Id: Connector-7277
+<item valLabRot="0" startpinid="SwitchDip-7263-switch1-pinN" labelx="-16" y="-340" pointList="-352,-340,-280,-340,-280,-176" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7277" x="-352" hflip="1" rotation="0" endpinid="Arduino Uno-7275-PB1" enodeid="enode-7277" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7277" valLabelx="0"/>
+
+Unique  Id: Connector-7302: 
+Circuit Id: Connector-7302
+<item valLabRot="0" startpinid="Servo-1-in2" labelx="-16" y="-204" pointList="-136,-204,-248,-204,-248,-176" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7302" x="-136" hflip="1" rotation="0" endpinid="Arduino Uno-7275-PD6" enodeid="enode-7302" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7302" valLabelx="0"/>
+
+Unique  Id: Connector-7304: 
+Circuit Id: Connector-7304
+<item valLabRot="0" startpinid="Arduino Uno-7275-PD2" labelx="-16" y="-176" pointList="-216,-176,-216,-348,-184,-348" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7304" x="-216" hflip="1" rotation="0" endpinid="BcdTo7S-7208-in0" enodeid="enode-7304" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7304" valLabelx="0"/>
+
+Unique  Id: Connector-7305: 
+Circuit Id: Connector-7305
+<item valLabRot="0" startpinid="Arduino Uno-7275-PD3" labelx="-16" y="-176" pointList="-224,-176,-224,-340,-184,-340" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7305" x="-224" hflip="1" rotation="0" endpinid="BcdTo7S-7208-in1" enodeid="enode-7305" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7305" valLabelx="0"/>
+
+Unique  Id: Connector-7306: 
+Circuit Id: Connector-7306
+<item valLabRot="0" startpinid="Arduino Uno-7275-PD4" labelx="-16" y="-176" pointList="-232,-176,-232,-332,-184,-332" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7306" x="-232" hflip="1" rotation="0" endpinid="BcdTo7S-7208-in2" enodeid="enode-7306" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7306" valLabelx="0"/>
+
+Unique  Id: Connector-7307: 
+Circuit Id: Connector-7307
+<item valLabRot="0" startpinid="Arduino Uno-7275-PD5" labelx="-16" y="-176" pointList="-240,-176,-240,-324,-184,-324" labelrot="0" Show_id="false" mainComp="false" boardRot="-1e+06" circPos="0,0" vflip="1" valLabely="0" objectName="Connector-7307" x="-240" hflip="1" rotation="0" endpinid="BcdTo7S-7208-in3" enodeid="enode-7307" itemtype="Connector" boardPos="-1e+06,-1e+06" circRot="0" labely="-24" id="Connector-7307" valLabelx="0"/>
+ 
+</circuit>
